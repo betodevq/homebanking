@@ -8,6 +8,9 @@ Clave: 1234
 
 Precio de servicios: 
 agua = 350
-telefono = 425;
+
+telefono = 425
+
 luz = 210
-internet = 570;
+
+internet = 570
